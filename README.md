@@ -1,16 +1,29 @@
-## Hi there 👋
+# Charles (Charlie) Gifford
 
-<!--
-**ckgifford06/ckgifford06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Boston College Computer Science + Mathematics student who is interested in Data Analysis, Data Engineering, and Data Science in general. I am actively seeking 2027 Summer internships in those fields. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+- **Languages:** Python, SQL, Java, JavaScript (React), HTML & CSS, C
+- **Data Engineering & Analysis:** Pandas, NumPy, Oracle DB, Power BI, Power Automate
+
+---
+
+### Experience
+
+* **Data Analytics Intern - The Port Authority of New York/New Jersey**
+  (description here)
+
+* **Teaching Assistant - Boston College Computer Science Department**
+  (description here)
+
+---
+
+### Connect
+
+- **Email:** ckgifford06@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/charleskgifford](link)
+- **Portfolio:** [charliegifford.com](link)
+
