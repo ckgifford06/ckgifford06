@@ -14,7 +14,8 @@ I am a Boston College Computer Science + Mathematics student who is interested i
 ### Experience
 
 * **Data Analytics Intern - The Port Authority of New York/New Jersey**
-  (description here)
+  * (description here)
+  
 
 * **Teaching Assistant - Boston College Computer Science Department**
   (description here)
