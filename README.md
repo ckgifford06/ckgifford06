@@ -22,7 +22,11 @@ I am a Boston College Computer Science + Mathematics student who is interested i
   
 
 **Teaching Assistant - Boston College Computer Science Department**
-  * (description here)
+ * Lead weekly discussion sections and daily office hours for 50+ students learning Python fundamentals, translating lecture concepts into worked examples and live debugging.
+
+ * Grade assignments and give targeted feedback on efficiency, readability, and correctness to sharpen students' problem-solving and algorithmic thinking.
+
+ * Partner with the professor to proctor exams, refine course content, and author supplemental coding exercises used across all sections.
 
 ---
 
