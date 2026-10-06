@@ -14,7 +14,11 @@ I am a Boston College Computer Science + Mathematics student who is interested i
 ### Experience
 
 **Data Analytics Intern - The Port Authority of New York/New Jersey**
-  * (description here)
+  * Engineered an end-to-end pipeline cross-referencing 2,200+ fleet vehicles against an Oracle database, flagging 31% as out of compliance with $100K+ in active tolls; findings presented to the Deputy Director.
+
+  * Built a Python NLP pipeline to language-classify 112,000+ multilingual E-ZPass toll-dispute records, pairing statistical detection (lingua) with quality gates that stripped templated and low-signal text to isolate clean English records for downstream LLM analysis.
+
+  * Built interactive geospatial tools (Python, Folium, GeoJSON, JavaScript) with cross-filtering, heatmaps, and roadside-image lookups to investigate transponder fraud, surfacing fleet tags operating outside of the NY/NJ region; adopted by the Revenue Recovery team and reviewed by the agency’s Executive Director.
   
 
 **Teaching Assistant - Boston College Computer Science Department**
