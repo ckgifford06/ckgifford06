@@ -33,6 +33,6 @@ I am a Boston College Computer Science + Mathematics student who is interested i
 ### Connect
 
 - **Email:** ckgifford06@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/charleskgifford](link)
-- **Portfolio:** [charliegifford.com](link)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/charleskgifford)
+- **Portfolio:** [charliegifford.com](https://www.charliegifford.com/)
 
