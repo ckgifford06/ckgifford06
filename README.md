@@ -7,7 +7,7 @@ I am a Boston College Computer Science + Mathematics student who is interested i
 ### Stack
 
 - **Languages:** Python, SQL, Java, JavaScript (React), HTML & CSS, C
-- **Data Engineering & Analysis:** Pandas, NumPy, Oracle DB, Power BI, Power Automate
+- **Data Engineering & Analysis:** Pandas, NumPy, Oracle DB, Power BI, Power Automate, Tableau
 
 ---
 
